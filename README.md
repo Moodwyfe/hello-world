@@ -1,2 +1,3 @@
 # hello-world
 Just a new repository for me to play with
+I am currently surviving on apple juice, chocolate and coffee and would appreciate an escape route out of this place...
